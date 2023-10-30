@@ -10,7 +10,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: white;
+    background-color: darkslategray;
 
 }
 
@@ -18,7 +18,7 @@ body {
     position: relative;
     width: 100%;
     max-width: 400px;
-    background-color: deeppink;
+    background-color: black;
     padding: 30px;
     overflow: hidden;
     border-radius: 10px;
@@ -46,6 +46,7 @@ select {
     border-radius: 5px;
     margin-bottom: 20px;
     background-color: white;
-    color: hotpink;
+    color: darkslategray;
     font-size: 14px;
+    font-weight: bold;
 }

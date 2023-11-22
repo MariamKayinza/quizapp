@@ -118,6 +118,26 @@ select {
     font-weight: 500;
 }
 
+.question-wrapper .number {
+    color: steelblue;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+
+.question-wrapper .number .total {
+    color: teal;
+    font-size: 18px;
+}
+
+.question-wrapper .question {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
 
 
 
